@@ -10,4 +10,4 @@ Anzeige einer Liste von Freunden. Die Liste wird von https://randomuser.me berei
 ## Im Browser
 1. Es besteht die Möglichkeit die App im Browser-Simmulator laufen zu lassen. Hierbei kann es leider zu Wartezeiten kommen, da der App-Code zuvor für den Simmulator über setzt wird. <https://expo.io/appetize-simulator?url=https://expo.io/@rike/FriendsList>
 
-2. Nachdem die App im Simmulator gestartet wurde, den Button 'Open project using Expo' starten.
+2. Nachdem die App im Simmulator gestartet wurde, den Button 'Open project using Expo' drücken.
